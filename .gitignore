@@ -55,3 +55,11 @@ nunit-*.xml
 
 .vs/
 **/.vs/
+
+*.user
+*.csproj.user
+
+# Google Cloud keys / secrets
+**/keys/
+social_app/keys/
+social_app/keys/*.json
